@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Aplicação de CLIMA | API OpenWeather",
+      "image": "./assets/pojeto-clima.png",
+      "tags": ["HTML", "CSS", "Javascript", "API OpenWeather","Responsivo"],
+      "link": "https://github.com/lagunathiago/Previs-o-do-Tempo"
+    },
+    {
+      "name": "Landing page respansiva e animada",
+      "image": "./assets/landing-page2.png",
+      "tags": ["HTML", "Animações", "CSS","Javascript","Responsivo"],
+      "link": "https://github.com/lagunathiago/landing-page-food-theme"
+    },
+    {
+      "name": "Calculadora IMC",
+      "image": "./assets/calculadora.png",
+      "tags": ["Javascript", "HTML","CSS","Responsivo"],
+      "link": "https://github.com/lagunathiago/Calculadora-IMC"
+    },
+    {
+      "name": "Front-End Formulario de Cadastro",
+      "image": "./assets/formulariodecadastro.png",
+      "tags": ["HTML", "CSS","Javascript","Responsivo"],
+      "link": "https://github.com/lagunathiago/Front-End-de-Formulario-de-Cadastro"
+    },
+    {
+      "name": "Relógio Digital",
+      "image": "./assets/relogiodigital.png",
+      "tags": ["HTML", "CSS","Javascript","Responsivo"],
+      "link": "https://github.com/lagunathiago/Rel-gioDigital"
+    },
+    {
+      "name": "Página de login",
+      "image": "./assets/paginadelogin.png",
+      "tags": ["HTML","CSS"],
+      "link": "https://github.com/lagunathiago/pagina-de-login"
+    },
+    {
+      "name": "Projeto Crud FullStack [Em breve!!!...] ",
+      "image": "./assets/site_em_construcao2.jpg",
+      "tags": ["HTML","CSS"," Node","MySQL","React.Js"],
+      "link": ""
+    }
+    
+  ]
