@@ -36,10 +36,16 @@
       "link": "https://github.com/lagunathiago/pagina-de-login"
     },
     {
+      "name": "Página de Login criada do React.Js ",
+      "image": "./assets/teladeloginreact.png",
+      "tags": ["HTML","CSS"," JavaScript","React.Js"],
+      "link": "https://github.com/lagunathiago/TelaLogingReact"
+    },
+    {
       "name": "Projeto Crud FullStack [Em breve!!!...] ",
       "image": "./assets/site_em_construcao2.jpg",
       "tags": ["HTML","CSS"," Node","MySQL","React.Js"],
       "link": ""
     }
-    
+  
   ]
